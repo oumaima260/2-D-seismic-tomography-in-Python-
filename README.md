@@ -7,4 +7,4 @@ If you have any questions, please contact Oumaima by email: o.badraoui@studenti.
 
 Italy, 11.03.2026
 
-<img src="./imag/INR_IM.png" style="zoom:20%;" />
+<img src="./INR_IM.png" style="zoom:20%;" />
