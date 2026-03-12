@@ -8,9 +8,10 @@ Scripts developed for the **Seismic Imaging** course taught by Professor Nicola 
 
 This didactic exercise addresses the cross-well tomography problem using an **Implicit Neural Representation (INR)** framework.  
 
-The goal is to introduce students to modern function-parameterization strategies for inverse problems, combining classical straight-ray tomography with neural field modeling techniques.
+The objective is to explore an alternative parameterization of the slowness model, replacing the traditional discretized grid with a neural network representation.
 
 The material was developed by Oumaima Badraoui under the supervision of [Felipe Rincón](https://www.linkedin.com/in/felipe-rincond) at the University of Pisa, Italy.
+
 ---
 
 ## Contact
