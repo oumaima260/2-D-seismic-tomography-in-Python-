@@ -1,8 +1,6 @@
 # Implicit Neural Representation Applied to Cross-Well Tomography
 
-Scripts developed for the **Seismic Imaging** course taught by Professor Nicola Bienati at the University of Pisa, within the MSc in Exploration and Applied Geophysics:
-
-https://www.dst.unipi.it/home-wgf.html
+Scripts developed for the **Seismic Imaging** course taught by Professor Nicola Bienati at the University of Pisa, within the [MSc. In Exploration and Applied Geophysics](https://www.dst.unipi.it/home-wgf.html).
 
 ---
 
