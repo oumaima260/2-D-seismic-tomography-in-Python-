@@ -25,9 +25,7 @@ For questions or feedback, please contact:
 
 Italy, 11 March 2026
 
-<p align="center">
-  <img src="./INR_IM.png" width="300">
-</p>
+<img src="./INR_IM.png" style="zoom:20%;" />
 
 ---
 
