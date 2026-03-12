@@ -1,10 +1,40 @@
-# Implicit neural representation applied to cross-well tomography
-Scripts for the exam of Seismic Imaging course taught by Professor Nicola Bienati at the University of Pisa for the [MSc. In Exploration and Applied Geophysics](https://www.dst.unipi.it/home-wgf.html)
+# Implicit Neural Representation Applied to Cross-Well Tomography
 
-This is didactic exercise for solving the cross-well tomography problem using an implicit neural representation. Developed by Oumaima Badraoui under the guidance of Felipe Rincón at University of Pisa, Italy. 
+Scripts developed for the **Seismic Imaging** course taught by Professor Nicola Bienati at the University of Pisa, within the MSc in Exploration and Applied Geophysics:
 
-If you have any questions, please contact Oumaima by email: o.badraoui@studenti.unipi.it
+https://www.dst.unipi.it/home-wgf.html
 
-Italy, 11.03.2026
+---
 
-<img src="./INR_IM.png" style="zoom:20%;" />
+## Overview
+
+This didactic exercise addresses the cross-well tomography problem using an **Implicit Neural Representation (INR)** framework.  
+
+The goal is to introduce students to modern function-parameterization strategies for inverse problems, combining classical straight-ray tomography with neural field modeling techniques.
+
+The material was developed by **Oumaima Badraoui** under the supervision of **Felipe Rincón** at the University of Pisa, Italy.
+
+---
+
+## Contact
+
+For questions or feedback, please contact:  
+**o.badraoui@studenti.unipi.it**
+
+---
+
+Italy, 11 March 2026
+
+<p align="center">
+  <img src="./INR_IM.png" width="300">
+</p>
+
+---
+
+## Acknowledgments
+
+Parts of the theoretical background and implementation philosophy were inspired by publicly available lecture notes from ETH Zurich, particularly the materials on inverse theory and straight-ray tomography:
+
+https://swp_ethz.gitlab.io/public/lecture_notes_inverse_theory/notebooks/Straight-Ray_Tomography.html
+
+These resources are gratefully acknowledged as valuable educational references.
