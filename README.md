@@ -10,7 +10,7 @@ This didactic exercise addresses the cross-well tomography problem using an **Im
 
 The goal is to introduce students to modern function-parameterization strategies for inverse problems, combining classical straight-ray tomography with neural field modeling techniques.
 
-The material was developed by **Oumaima Badraoui** under the supervision of [Felipe Rincón](www.linkedin.com/in/felipe-rincond) at the University of Pisa, Italy.
+The material was developed by Oumaima Badraoui under the supervision of [Felipe Rincón](www.linkedin.com/in/felipe-rincond) at the University of Pisa, Italy.
 ---
 
 ## Contact
